@@ -1,6 +1,6 @@
 # Learning Rust
 
-- [Day 1](day1)
+- [Day 1: Basic about cargo, variable, mut, fn, data types](day1)
 
 # References
 
