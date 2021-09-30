@@ -6,9 +6,12 @@
 - I'm try to learn new programming language.
 - Rust seems to be a potential programming language for a Data Engineer: build a Data Platform, API Backend, WebAssembly Frontend, build SDK to collect logs, ...
 
-# Hello
+I will only note something new or weird about Rust by a Python-er or Typescript-er.
+
+# Let's get started
 
 - [Day 1: Basic about cargo, variable, mut, fn, data types](day1)
+- [Day 2: Control flows (if/else, match, loop, for), vectors](day2)
 
 # References
 
