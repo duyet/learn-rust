@@ -12,6 +12,8 @@ I will only note something new or weird about Rust by a Python-er or Typescript-
 
 - [Day 1: Basic about cargo, variable, mut, fn, data types](day1)
 - [Day 2: Control flows (if/else, match, loop, for), vectors](day2)
+- [Day 3: Some Leetcode: two_sum, palindrome](day3): Try to learn learn struct, Linked List, Optional, Box, etc in Rust via solving Leetcode.
+
 
 # References
 
